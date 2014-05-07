@@ -114,10 +114,10 @@
 			children = (
 				C391F8971919A6210031F5ED /* CEDAppDelegate.h */,
 				C391F8981919A6210031F5ED /* CEDAppDelegate.m */,
-				C391F89A1919A6210031F5ED /* Main.storyboard */,
 				C391F89D1919A6210031F5ED /* CEDViewController.h */,
 				C391F89E1919A6210031F5ED /* CEDViewController.m */,
 				C391F8A01919A6220031F5ED /* Images.xcassets */,
+				C391F89A1919A6210031F5ED /* Main.storyboard */,
 				C391F88F1919A6210031F5ED /* Supporting Files */,
 			);
 			path = TestMultiViewApp;
